@@ -7,7 +7,7 @@
 
 
  */
-let willRain=false
+let willRain=true
 let hasProbabilty=true
 
 if(willRain){
